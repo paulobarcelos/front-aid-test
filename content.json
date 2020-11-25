@@ -1,1 +1,14 @@
-{}
+{
+  "custom-field": "Hello",
+  "custom-list": [
+    {
+      "custom-list-item": "bbbb"
+    },
+    {
+      "custom-list-item": "https://cms.frontaid.io/project/BysNZ0o5D/?node=%2Fcustom-list%2F1vvvv"
+    },
+    {
+      "custom-list-item": "aaaaaa"
+    }
+  ]
+}
